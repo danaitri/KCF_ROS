@@ -1,0 +1,8 @@
+int32 cmd
+int32 x
+int32 y
+int32 w
+int32 h
+int32 id
+---
+int32 result
