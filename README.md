@@ -14,8 +14,11 @@ The image frame is received from the usb_cam package.
 1. ROS
 2. OpenCV 3.0
 3. Cmake
+4. usb_cam package
 
 ### How to run
+Initial ROI needs to be received in the initialization service (controller.srv)
+
 
 [1] J. F. Henriques, R. Caseiro, P. Martins, and J. Batista. Exploiting the circulant structure of tracking-by-detection with kernels. In proceedings of the European Conference on Computer Vision, 2012.
 
