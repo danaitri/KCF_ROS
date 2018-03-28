@@ -6,6 +6,7 @@ This tracking method is an implementation of [1] which is extended to KFC with c
 The implementation is based on OpenCVs abstract class cv::Tracker.
 
 The package tracker provides a Service node that starts the tracking process upon receiving an initialization request. 
+The image frame is received from the usb_cam package.
 
 
 # Dependencies
